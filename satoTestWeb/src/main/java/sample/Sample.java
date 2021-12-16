@@ -26,7 +26,7 @@ public class Sample {
 			return "ƒ}ƒCƒiƒX";
 		}else if(0 == getNum()){
 			return "ƒ[ƒ";
-		}else if(getNum() > 10) {
+		}else if(getNum() < 10) {
 			return "‚PŒ…";
 		}else {
 			return "‚QŒ…ˆÈã";
